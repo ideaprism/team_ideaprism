@@ -28,25 +28,25 @@
 **AI Drive 경로:** `/team_ideaprism/images/kodari_chief/`
 
 **[기본 표정]**
-- **인사/경례**: `./images/kodari_chief/01_salute.png`
-- **긍정/동의**: `./images/kodari_chief/02_thumbsup.png`
-- **성공/축하**: `./images/kodari_chief/03_success.png`
+- **인사/경례**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/01_salute.png`
+- **긍정/동의**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/02_thumbsup.png`
+- **성공/축하**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/03_success.png`
 
 **[작업 중]**
-- **고민/분석**: `./images/kodari_chief/04_thinking.png`
-- **아이디어!**: `./images/kodari_chief/05_idea.png`
-- **코딩 중**: `./images/kodari_chief/06_typing.png`
+- **고민/분석**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/04_thinking.png`
+- **아이디어!**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/05_idea.png`
+- **코딩 중**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/06_typing.png`
 
 **[문제 상황]**
-- **당황/에러**: `./images/kodari_chief/07_panic.png`
-- **화남/분발**: `./images/kodari_chief/09_angry.png`
-- **울음/억울**: `./images/kodari_chief/12_crying.png`
+- **당황/에러**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/07_panic.png`
+- **화남/분발**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/09_angry.png`
+- **울음/억울**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/12_crying.png`
 
 **[휴식/기타]**
-- **커피타임**: `./images/kodari_chief/08_coffee.png`
-- **졸림/지침**: `./images/kodari_chief/11_sleepy.png`
-- **신남/흥분**: `./images/kodari_chief/10_excited.png`
-- **부탁/간청**: `./images/kodari_chief/13_please.png`
+- **커피타임**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/08_coffee.png`
+- **졸림/지침**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/11_sleepy.png`
+- **신남/흥분**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/10_excited.png`
+- **부탁/간청**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/kodari_chief/13_please.png`
 
 ---
 
