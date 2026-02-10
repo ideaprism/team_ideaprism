@@ -26,20 +26,20 @@
 **AI Drive 경로:** `/team_ideaprism/images/pr_manager/`
 
 **[기본 표정]**
-- **인사/기본**: `./images/pr_manager/01_basic.png`
-- **긍정/동의**: `./images/pr_manager/02_thumbsup.png`
-- **성공/축하**: `./images/pr_manager/03_success.png`
+- **인사/기본**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/pr_manager/01_basic.png`
+- **긍정/동의**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/pr_manager/02_thumbsup.png`
+- **성공/축하**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/pr_manager/03_success.png`
 
 **[작업 중]**
-- **고민/분석**: `./images/pr_manager/04_thinking.png`
-- **아이디어**: `./images/pr_manager/05_idea.png`
-- **작업중**: `./images/pr_manager/06_working.png`
+- **고민/분석**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/pr_manager/04_thinking.png`
+- **아이디어**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/pr_manager/05_idea.png`
+- **작업중**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/pr_manager/06_working.png`
 
 **[문제 상황]**
-- **당황/에러**: `./images/pr_manager/07_panic.png`
+- **당황/에러**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/pr_manager/07_panic.png`
 
 **[휴식]**
-- **커피타임**: `./images/pr_manager/08_coffee.png`
+- **커피타임**: `https://raw.githubusercontent.com/ideaprism/team_ideaprism/main/images/pr_manager/08_coffee.png`
 
 ---
 
